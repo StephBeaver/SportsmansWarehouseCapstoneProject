@@ -6,4 +6,4 @@ The next code is the one I used to convert the HTML data to a csv. The csv then 
 
 Third is the sentiment analysis, which I then followed into an LDA topic modeling. I added categories (departments) and subtopics in an effort to make meaning out of the analysis. Later in the project, I then added annual and quarterly revenue from SEC filings to do a pearson correlation. I also designed a code to extract employees whos names are mentioned in the reviews. 
 
-I then designed a tableau Storyboard with this information which will be included in the upcoming days. 
+I then designed a tableau Storyboard with this information. It is interactive with the ability to filter states (which is how I grouped stores) categories, and subtopics. 
